@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="left"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="RtlHardcoded">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <TextView
+            android:id="@+id/text_proName"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30dp"
+            android:text="@string/def_devName"/>
+
+        <TextView
+            android:id="@+id/text_proId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30dp"
+            android:text="id:"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_devCount"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="3个设备"/>
+
+</LinearLayout>

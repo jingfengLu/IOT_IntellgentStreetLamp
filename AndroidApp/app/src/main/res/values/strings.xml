@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ISL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">物联网客户端</string>
+    <string name="nav_header_subtitle">作者:落叶凋凌</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_refreshList">刷新列表</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_about">关于</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="def_devName">设备名称</string>
+    <string name="action_refresh">手动刷新</string>
+    <string name="action_auto_refresh">自动刷新</string>
+    <string name="output">返回</string>
+    <string name="def_device_status">在线</string>
+    <string name="light_status_defalut">灯状态：关</string>
+    <string name="turn_on">开灯</string>
+    <string name="turn_off">关灯</string>
+</resources>
