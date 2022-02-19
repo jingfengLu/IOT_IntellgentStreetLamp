@@ -1,3 +1,0 @@
-1.AndroidApp\app\src\main\java\com\example\isl\iot中的IotConstant.java文件下的用户信息需要填写自己的信息。
-
-2.software\ISL\User\Bsp\Inc中的dev_info.h文件下的产品id、设备名称和产品key需要根据onenet平台的信息进行配置。
